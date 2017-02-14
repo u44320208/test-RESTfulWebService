@@ -1,5 +1,5 @@
 var express = require('express');
-var users = require('../library/users');
+var users = require('../libraries/users');
 
 // ROUTES FOR OUR API
 // =============================================================================
