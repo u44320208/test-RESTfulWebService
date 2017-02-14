@@ -9,6 +9,7 @@
   "author": "Chakrit",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.16.0"
+    "body-parser": "^1.16.0",
+    "js": "^0.1.0"
   }
 }
